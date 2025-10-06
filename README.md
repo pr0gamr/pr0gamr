@@ -1,6 +1,7 @@
 ## Hello world
 
 I'm an aspiring software developer with an intrest in video games!
+
 Roguelikes and sandbox games are quite fun
 
 Personal game recomendations:
