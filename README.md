@@ -6,7 +6,7 @@ Roguelikes and sandbox games are quite fun
 
 ### Personal game recomendations:
 
-hollow knight silksong, Helldivers 2,Baldur's Gate 3, Minecraft, Grounded, Slay the spire, deltarune, risk of rain 2
+hollow knight silksong, Helldivers 2, Baldur's Gate 3, Minecraft, Grounded, Slay the spire, deltarune, risk of rain 2
 
 <!--
 **pr0gamr/pr0gamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
